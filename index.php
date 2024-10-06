@@ -13,9 +13,6 @@
     <link href="assets/css/style.css" rel="stylesheet">
     <link href="https://unpkg.com/swiper/swiper-bundle.min.css" rel="stylesheet">
 
-    <style>
-
-    </style>
 </head>
 
 <body>
